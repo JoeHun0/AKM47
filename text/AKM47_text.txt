@@ -1,0 +1,68 @@
+AKM-47 - mod text for the Zone Kit "Localization Mod TextTool Asset" (name it e.g. AKM47_Text, in the AKM47 mod's Content).
+Each entry: SID = the full key below; add English and Ukrainian; leave the per-entry dropdown empty.
+
+sid_items_GunAKM47_ST_name
+  English:    AKM-47
+  Ukrainian:  АКМ-47
+
+sid_items_GunAKM47_ST_description
+  English:    The old-school Kalashnikov the AKM-74S grew out of, chambered for the heavier 7.62x39mm round. Hits harder and punches through armor better, but kicks hard and loses its punch at long range. Shrugs off dirt and neglect even better than its descendants.
+  Ukrainian:  Старий добрий «калаш», з якого виріс АКМ-74С, під важчий патрон 7,62x39 мм. Б'є сильніше й краще пробиває броню, але відчутно смикається і втрачає силу на дальній дистанції. Бруд і недбалий догляд переносить ще краще за своїх нащадків.
+
+--- Upgrade tree (added 2026-10-05). The other upgrades reuse vanilla texts - nothing to add for them.
+
+sid_upgrades_GunAKM47_Upgrade_Barrel_2_1_name
+  English:    Heavy RPK-Pattern Barrel
+  Ukrainian:  Важкий ствол від РПК
+
+sid_upgrades_GunAKM47_Upgrade_Barrel_2_1_description
+  English:    A longer, thicker barrel in the style of the RPK light machine gun keeps the bullet on course and hitting hard at longer range.
+  Ukrainian:  Довший і товщий ствол на зразок кулемета РПК: куля летить точніше і зберігає силу на більшій дистанції.
+
+sid_upgrades_GunAKM47_Upgrade_Barrel_2_2_name
+  English:    Gas Block Tuning
+  Ukrainian:  Доведення газового блоку
+
+sid_upgrades_GunAKM47_Upgrade_Barrel_2_2_description
+  English:    A reworked gas port evens out the bolt carrier's travel, so the rifle settles back on target faster after each shot.
+  Ukrainian:  Перероблений газовий отвір вирівнює хід затворної рами, тож після кожного пострілу зброя швидше повертається на ціль.
+
+sid_upgrades_GunAKM47_Upgrade_Body_2_1_name
+  English:    Hammer Rate Reducer
+  Ukrainian:  Сповільнювач курка
+
+sid_upgrades_GunAKM47_Upgrade_Body_2_1_description
+  English:    The AKM's trademark retarder holds the hammer back for a split second, keeping long bursts tighter and easier to control.
+  Ukrainian:  Фірмовий сповільнювач АКМ на мить затримує курок, тож довгі черги лягають купніше і їх легше втримати.
+
+sid_upgrades_GunAKM47_Upgrade_Body_3_1_name
+  English:    Match Trigger Group
+  Ukrainian:  Спортивний ударно-спусковий механізм
+
+sid_upgrades_GunAKM47_Upgrade_Body_3_1_description
+  English:    A polished, lighter trigger pull lets the shooter get back on target faster between shots.
+  Ukrainian:  Відполірований, легший спуск дозволяє швидше повертатися на ціль між пострілами.
+
+sid_upgrades_GunAKM47_Upgrade_Grip_2_name
+  English:    Extended Safety Lever
+  Ukrainian:  Подовжений перемикач запобіжника
+
+sid_upgrades_GunAKM47_Upgrade_Grip_2_description
+  English:    A longer selector lever with a finger shelf comes off safe without letting go of the grip, so the rifle is readied and put away faster.
+  Ukrainian:  Довший перемикач з упором під палець знімається із запобіжника, не відпускаючи руків'я, тож зброя швидше дістається і ховається.
+
+sid_upgrades_GunAKM47_Upgrade_Stock_2_1_name
+  English:    Laminated Birch Stock
+  Ukrainian:  Ламінований березовий приклад
+
+sid_upgrades_GunAKM47_Upgrade_Stock_2_1_description
+  English:    A stiff, moisture-proof laminated stock that doesn't warp or swell, keeping the rifle steadier in the hands.
+  Ukrainian:  Жорсткий, вологостійкий ламінований приклад не жолобиться і не набухає, тож зброя стабільніше лежить у руках.
+
+sid_upgrades_GunAKM47_Upgrade_Stock_2_2_name
+  English:    AKMS Underfolding Stock
+  Ukrainian:  Складаний приклад АКМС
+
+sid_upgrades_GunAKM47_Upgrade_Stock_2_2_description
+  English:    The paratroopers' folding steel stock: lighter than wood and quicker to bring to the shoulder.
+  Ukrainian:  Складаний сталевий приклад десантників: легший за дерев'яний і швидше вкладається в плече.

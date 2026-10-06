@@ -1,0 +1,23 @@
+AKM-47 - credits
+================
+
+Mod: AKM-47 by JoeHun0 (free, non-commercial).
+
+Game: S.T.A.L.K.E.R. 2: Heart of Chornobyl (c) GSC Game World
+  S.T.A.L.K.E.R. 2: Heart of Chornobyl and all of its original content - including the AKM-74S rig, 
+  animations, attachments, ammo, sounds, icons and game data this mod builds on - are the property of GSC Game 
+  World. This is an unofficial, free fan mod, not affiliated with or endorsed by GSC Game World. It was made 
+  with GSC Game World's official modding tool, the Zone Kit, and is subject to its modding tool license and 
+  the game's Terms of Use / EULA. It contains edited copies of three of the game's AKM-74S animation 
+  collection files. A legitimate copy of the game is required.
+  Official policy: https://support.stalker2.com/hc/en-us/articles/28010468059921
+
+3D model (used from the version that ships the new gun model on):
+  "AK-47" by Lokeig
+  https://sketchfab.com/3d-models/ak-47-384565b1779c450b90397232163e4e6d
+  Licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/
+  Changes: rigged to the S.T.A.L.K.E.R. 2 AKM-74S skeleton, rescaled and re-oriented, split into
+  animated parts, materials and textures converted for the game.
+
+The model is used under its NonCommercial license: this mod is free, and no version of it may be
+sold, paywalled or used to earn money.
