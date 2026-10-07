@@ -20,6 +20,7 @@
 
 /text/*
 !/text/AKM47_text.txt
+!/text/AKM47_zh-Hans.json
 
 /zonekit/*
 !/zonekit/Content/

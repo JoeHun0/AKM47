@@ -3,6 +3,8 @@ AKM-47 - credits
 
 Mod: AKM-47 by JoeHun0 (free, non-commercial).
 
+Simplified Chinese translation: Wu233e.
+
 Game: S.T.A.L.K.E.R. 2: Heart of Chornobyl (c) GSC Game World
   S.T.A.L.K.E.R. 2: Heart of Chornobyl and all of its original content - including the AKM-74S rig, 
   animations, attachments, ammo, sounds, icons and game data this mod builds on - are the property of GSC Game 

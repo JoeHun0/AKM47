@@ -35,6 +35,14 @@ The test build goes to `zzz_AKM47_TEST_P/` and increases spawn/loot availability
 
 ## Full mod and packaging
 
+The contributed Simplified Chinese strings are in `text/AKM47_zh-Hans.json`.
+After importing the English/Ukrainian texts, select AKM47 in Zone Kit and run
+`tools/ue_add_chinese.py` in the editor Python console. It adds Chinese to all
+16 existing entries, preserves other languages, and writes a verification report
+to `tools/ue_add_chinese_report.txt`. Run **Tools -> Refresh Mod TextTool** before
+**Package Mod**. Chinese support is not included in a release until this asset
+import and packaging have completed.
+
 The complete mod also requires the official Zone Kit, the credited AK-47 model, converted textures and meshes, icons, localization asset, and animation collection edits. See `CREDITS.txt` for attribution and the model source. The Blender and `ue_*.py` scripts record the asset workflow, but several contain author-machine paths; review and adjust those paths before running them. They are not a one-command portable build.
 
 Copy production `zonekit/Content/GameLite` into the AKM47 Zone Kit mod, prepare/import the required assets and English/Ukrainian text, then run **Package Mod** in Zone Kit.

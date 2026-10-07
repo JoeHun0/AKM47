@@ -1,0 +1,18 @@
+{
+  "sid_items_GunAKM47_ST_name": "AKM",
+  "sid_items_GunAKM47_ST_description": "AKM脱胎于老式卡拉什尼科夫步枪，使用威力更大的7.62×39毫米弹药。其杀伤力更强，但后坐力也更大，而且在远距离上威力衰减更明显。AKM对泥土、灰尘和长期缺乏保养的适应能力，甚至比它的后继型号AK-74还要出色。",
+  "sid_upgrades_GunAKM47_Upgrade_Barrel_2_1_name": "RPK重型枪管",
+  "sid_upgrades_GunAKM47_Upgrade_Barrel_2_1_description": "更长、更粗的枪管，采用RPK轻机枪的设计风格，能够让子弹在更远距离上保持稳定的飞行轨迹，同时维持更强的威力。",
+  "sid_upgrades_GunAKM47_Upgrade_Barrel_2_2_name": "导气系统调校",
+  "sid_upgrades_GunAKM47_Upgrade_Barrel_2_2_description": "重新调整导气孔，使枪机框的运动更加平顺，从而让步枪在每次射击后更快地恢复瞄准状态。",
+  "sid_upgrades_GunAKM47_Upgrade_Body_2_1_name": "击锤延迟机构",
+  "sid_upgrades_GunAKM47_Upgrade_Body_2_1_description": "AKM标志性的击锤延迟机构会将击锤的释放短暂延后，使长点射更加紧凑，也更容易控制。",
+  "sid_upgrades_GunAKM47_Upgrade_Body_3_1_name": "竞赛型扳机组",
+  "sid_upgrades_GunAKM47_Upgrade_Body_3_1_description": "经过精细打磨、更加灵敏的扳机，让射手能够在每次射击之间更快地重新捕获目标。",
+  "sid_upgrades_GunAKM47_Upgrade_Grip_2_name": "加长保险拨片",
+  "sid_upgrades_GunAKM47_Upgrade_Grip_2_description": "更长的保险拨片配有手指托，即使不松开握把，也能解除保险，让步枪能够更快进入战斗状态，也能更迅速地重新打开保险。",
+  "sid_upgrades_GunAKM47_Upgrade_Stock_2_1_name": "层压桦木枪托",
+  "sid_upgrades_GunAKM47_Upgrade_Stock_2_1_description": "坚固、耐潮的层压枪托，不易发生变形或膨胀，使步枪在手中更加稳定。",
+  "sid_upgrades_GunAKM47_Upgrade_Stock_2_2_name": "AKMS下折叠枪托",
+  "sid_upgrades_GunAKM47_Upgrade_Stock_2_2_description": "空降部队使用的折叠式钢制枪托，比木制枪托更轻，并且能够更快地抵肩。"
+}

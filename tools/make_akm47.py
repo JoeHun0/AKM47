@@ -579,6 +579,12 @@ def model_files():
     hg = [c for c in at(m_item, 'SectionSettings').children if strip(c.val('UpgradeTargetPartType')) == 'EUpgradeTargetPartType::Handguard'][0]
     setv(hg, 'LeftPosition', '8.022902', '80.0')
     setv(hg, 'TopPosition', '-54.683498', '-40.0')
+    # Screenshot (75), 2026-10-07: grip orb (1261, 540) floats beside the grip.
+    # Stock/handguard offsets match 1 screen pixel per unit at 1920x1080;
+    # move it to the grip centre near (1220, 512). Confirmed in game, 2026-10-07.
+    grip = [c for c in at(m_item, 'SectionSettings').children if strip(c.val('UpgradeTargetPartType')) == 'EUpgradeTargetPartType::PistolGrip'][0]
+    setv(grip, 'LeftPosition', '-206.023209', '-247.0')
+    setv(grip, 'TopPosition', '15.830881', '-12.0')
     # weapon setup: our parts on the bones (magazine_tab and ring: no part on the AK-47 model)
     parts = at(m_gs, 'WeaponStaticMeshParts')
     old = {strip(c.val('SocketName')): c for c in parts.children}

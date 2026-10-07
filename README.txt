@@ -43,9 +43,10 @@ Compatibility
   problems in a save without the mod.
 - Made with Zone Kit Phase 2, tested on game version 2.0.x. As with all mods, achievements are disabled.
 
-Languages: English and Ukrainian.
+Languages: English, Ukrainian, and Simplified Chinese.
 
 Credits
+- Simplified Chinese translation: Wu233e.
 - Game: S.T.A.L.K.E.R. 2: Heart of Chornobyl (c) GSC Game World. The game and all of its original content - including the AKM-74S rig, animations, attachments, ammo, sounds, icons and game data this mod builds on - are the property of GSC Game World. This is an unofficial, free fan mod, not affiliated with or endorsed by GSC Game World. It was made with GSC Game World's official modding tool, the Zone Kit, and is subject to its modding tool license and the game's Terms of Use / EULA. It contains edited copies of three of the game's AKM-74S animation collection files. A legitimate copy of the game is required.
 - 3D model: "AK-47" by Lokeig (https://sketchfab.com/3d-models/ak-47-384565b1779c450b90397232163e4e6d),
   licensed under CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/). Changes: rigged to the
