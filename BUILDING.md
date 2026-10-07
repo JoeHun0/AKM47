@@ -55,6 +55,10 @@ py tools/make_release.py <version>
 
 The packaging script checks the six staged containers and compares packaged configuration files with production source. It refuses to overwrite an existing release ZIP. Packaged downloads belong in GitHub Releases, outside the source history.
 
+For release 1.1, set the AKM47 plugin descriptor's `VersionName` to `1.1` and
+integer `Version` to `2` before running **Package Mod**, then use
+`py tools/make_release.py 1.1`.
+
 ## Repository scope
 
 Included: production configs, Python and shell tools, icon camera settings, localization, README, and credits.

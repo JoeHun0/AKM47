@@ -1,6 +1,11 @@
 AKM-47 by JoeHun0
 =================
 
+Version 1.1
+
+- Added Simplified Chinese translation by Wu233e.
+- Fixed the pistol-grip upgrade marker position.
+
 The good old 7.62x39 Kalashnikov for S.T.A.L.K.E.R. 2. The game ships complete 7.62x39 ammo
 (FMJ, AP, hollow-point) but no gun fires it and nothing ever spawns it. This mod adds the AKM-47:
 its own AK-47 model on the AKM-74S rig, its own upgrade tree, and 7.62x39 across the Zone.

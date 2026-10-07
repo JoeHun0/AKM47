@@ -1,5 +1,10 @@
 # AKM-47 by JoeHun0
 
+Version 1.1
+
+- Added Simplified Chinese translation by Wu233e.
+- Fixed the pistol-grip upgrade marker position.
+
 Source repository for the AKM-47 mod for S.T.A.L.K.E.R. 2: Heart of Chornobyl.
 
 For build requirements and repository contents, see [BUILDING.md](BUILDING.md). Attribution and existing third-party terms are in [CREDITS.txt](CREDITS.txt).
