@@ -6,3 +6,6 @@
 - Fixed the pistol-grip upgrade marker floating beside the weapon. It now sits on the grip.
 
 Both changes have been confirmed working in-game.
+
+## 1.0 — 2026-10-05
+- initial version
