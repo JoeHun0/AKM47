@@ -2,6 +2,8 @@
 
 Version 1.1
 
+See [CHANGELOG.md](CHANGELOG.md) for release notes.
+
 - Added Simplified Chinese translation by Wu233e.
 - Fixed the pistol-grip upgrade marker position.
 
